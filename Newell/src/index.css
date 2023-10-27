@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+:root {
+  --red: #ee0000;
+  --blue: #7af1fa;
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+
+body > * {
+    font-family: 'Bree Serif',serif;
+}
+
+.monoton-font {
+  font-family: 'Monoton', cursive;
+}
+
+.lobster-font {
+  font-family: 'Lobster', cursive;
+}
