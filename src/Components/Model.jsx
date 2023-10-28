@@ -27,7 +27,6 @@ const Modal = ({ setIsOpen,handleClick,Content }) => {
             Gpay Number: <span className="text-[var(--blue)]">9994538549</span>
           </p> */}
           <p className='py-2 font-bold  text-2xl text-[var(--red)] text-start'>Any Doubts:</p>
-          <p className='text-[var(--blue)] text-start'>Mr . B. Dinesh Kumar  - 7402282440</p>
           <p className='text-[var(--blue)] text-start'>Mr . K . Vasantharan  - 8883615350 </p>
           <p className='text-[var(--blue)] text-start'>Mr . B . Kaushik  - 8248768514 </p>
           <div className="flex justify-center mt-8">

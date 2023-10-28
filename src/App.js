@@ -8,7 +8,7 @@ import Home from './Pages/Home'
 import Event from './Pages/event'
 function App() {
   useEffect(() => {
-    document.title = 'Newell 2K23';
+    document.title = 'Newell\'s 2K23';
   }, []);
 
   return (

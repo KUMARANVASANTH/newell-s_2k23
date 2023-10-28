@@ -12,7 +12,7 @@ const NavBar = () => {
         <div className="flex w-full justify-between items-center flex-wrap h-42 relative ">
             <div className="max-w-[1240px] mx-auto text-white flex w-full justify-between items-center h-24 px-[calc(100%*0.05)]">
 
-                <Link to="/"><h1 className="w-full text-3xl font-bold text-[var(--red)]">Newell 2K23</h1></Link>
+                <Link to="/"><h1 className="w-full text-3xl font-bold text-[var(--red)]">Newell's 2K23</h1></Link>
 
                 <ul className="hidden md:flex flex-end">
                     <li className="p-4"><Link to="/">Home</Link></li>

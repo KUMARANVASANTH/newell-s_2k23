@@ -12,7 +12,7 @@ function Landing(){
                         <p className="md:text-3xl sm:text-2xl sm:mt-10 text-1xl font-bold  p-2">AI Association</p>
                         <p className="md:text-4xl sm:text-3xl sm:mt-10 text-xl font-bold  p-2">Proudly Presents</p>
                         <div className="relative">
-                            <h1 className="md:text-7xl sm:text-6xl sm:mt-10 text-4xl font-bold md:py-6 text-[var(--red)] monoton-font">Newell 2K23!</h1>
+                            <h1 className="md:text-7xl sm:text-6xl sm:mt-10 text-4xl font-bold md:py-6 text-[var(--red)] monoton-font">Newell's 2K23!</h1>
                         </div>
                         <p className="md:text-2xl text-xl font-bolder text-white-500 pb-5">November 1,2023</p>
                         <TypeAnimation className="md:text-5xl font-mono sm:text-4xl text-xl font-bold"
@@ -27,7 +27,7 @@ function Landing(){
                                 <button className="bg-[#ff2a19] text-white text-lg w-[200px] rounded-md font-medium my-6 mx-auto py-3">Register soon</button>
                             </Link>
                         </div>
-                        <p className="md:text-lg text-sm text-white">Last date to Register October 31,2023 5PM.</p>
+                        <p className="md:text-lg text-sm text-white">Last date to Register October 30,2023 6PM.</p>
 
                     </div>
                 </div>
