@@ -34,9 +34,9 @@ function Footer(){
                     <h1 className='w-full text-4xl font-bold text-[var(--red)]'>Venue</h1>
                     <h1 className='w-full text-3xl font-bold text-white py-4'>Jamsedji Tata Seminar Hall</h1>
                     <p className='font-bold text-1xl text-white'>Student Co ordinator</p>
-                    <p className='font-mono'>7402282440</p>
-                    <p className='font-mono'>8883615350</p>
-                    <p className='font-mono'>8248768514</p>
+                    <p className='font-mono'>Mr. B. Dinesh Kumar - 7402282440</p>
+                    <p className='font-mono'>Mr. K. Vasantharan - 8883615350</p>
+                    <p className='font-mono'>Mr. B. Kaushik - 8248768514</p>
                     {/* <ul className="py-4">
                         <a href='mailto:ece.isf.2023@gmailcom' rel="noopener noreferrer " target={"_blank"} >
                             <li className='text-lg'> <FaGoogle size={30} className="inline-block" /><span className="px-2 text-lg">ece.isf.2023@gmail.com</span></li>
