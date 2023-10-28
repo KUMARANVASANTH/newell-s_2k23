@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/newell/static/css/main.c9d8e02b.css",
-    "main.js": "/newell/static/js/main.052d21f0.js",
-    "static/js/787.e2403841.chunk.js": "/newell/static/js/787.e2403841.chunk.js",
-    "static/media/ai.png": "/newell/static/media/ai.0e2c273594554b401242.png",
-    "static/media/poster.png": "/newell/static/media/poster.f7ab2ae3076f59f5aff5.png",
-    "index.html": "/newell/index.html",
-    "main.c9d8e02b.css.map": "/newell/static/css/main.c9d8e02b.css.map",
-    "main.052d21f0.js.map": "/newell/static/js/main.052d21f0.js.map",
-    "787.e2403841.chunk.js.map": "/newell/static/js/787.e2403841.chunk.js.map"
+    "main.css": "/newell-s_2k23/static/css/main.c9d8e02b.css",
+    "main.js": "/newell-s_2k23/static/js/main.3fab63a5.js",
+    "static/js/787.e2403841.chunk.js": "/newell-s_2k23/static/js/787.e2403841.chunk.js",
+    "static/media/ai.png": "/newell-s_2k23/static/media/ai.0e2c273594554b401242.png",
+    "static/media/poster.png": "/newell-s_2k23/static/media/poster.f7ab2ae3076f59f5aff5.png",
+    "index.html": "/newell-s_2k23/index.html",
+    "main.c9d8e02b.css.map": "/newell-s_2k23/static/css/main.c9d8e02b.css.map",
+    "main.3fab63a5.js.map": "/newell-s_2k23/static/js/main.3fab63a5.js.map",
+    "787.e2403841.chunk.js.map": "/newell-s_2k23/static/js/787.e2403841.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9d8e02b.css",
-    "static/js/main.052d21f0.js"
+    "static/js/main.3fab63a5.js"
   ]
 }
