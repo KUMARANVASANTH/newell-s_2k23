@@ -1,13 +1,9 @@
-import React, {useState,useEffect} from "react"
+import React, {useEffect} from "react"
 // import isf from "../assets/ece.png"
 // import iete from "../assets/iete.png"
 import ai from "../assets/ai.png"
 import {useLocation} from 'react-router-dom'
-import {
-    FaInstagram,
-    FaGoogle,
-} from 'react-icons/fa';
-import {Link} from 'react-router-dom';
+// import {Link} from 'react-router-dom';
 
 function Footer(){
   const { pathname } = useLocation();

@@ -1,6 +1,6 @@
 import './App.css';
 import {useEffect} from 'react'
-import {BrowserRouter, HashRouter, Route, Routes} from 'react-router-dom';
+import {HashRouter, Route, Routes} from 'react-router-dom';
 import {  Link } from 'react-scroll';
 import About from "./Pages/About";
 import Home from './Pages/Home'

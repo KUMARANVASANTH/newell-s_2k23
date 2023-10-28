@@ -1,4 +1,4 @@
-import React, {useState} from "react"
+import React from "react"
 import poster from '../assets/poster.png'
 import { Zoom } from "react-awesome-reveal"
 
