@@ -29,6 +29,8 @@ const Modal = ({ setIsOpen,handleClick,Content }) => {
           <p className='py-2 font-bold  text-2xl text-[var(--red)] text-start'>Any Clarification Contact:</p>
           <p className='text-[var(--blue)] text-start'>Mr . K . Vasantharan  - 8883615350 </p>
           <p className='text-[var(--blue)] text-start'>Mr . B . Kaushik  - 8248768514 </p>
+          <p className='text-[var(--blue)] text-start'>Miss. S. Archanaa - 9787947405 </p>
+          <p className='text-[var(--blue)] text-start'>Mr. M. Vishal - 9500628734 </p>
           <div className="flex justify-center mt-8">
             <a href={Content.link} className="flex-1 p-[10px] mx-20 reg-btn font-bold text-black">Register</a>
             <button className="flex-1 p-[10px] mx-20 cls-btn font-bold text-white" onClick={handleClick}>Close</button>
