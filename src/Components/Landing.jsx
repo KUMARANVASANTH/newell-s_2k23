@@ -27,7 +27,7 @@ function Landing(){
                                 <button className="bg-[#ff2a19] text-white text-lg w-[200px] rounded-md font-medium my-6 mx-auto py-3">Register soon</button>
                             </Link>
                         </div>
-                        <p className="md:text-lg text-sm text-white">Last date to Register October 30,2023 9PM.</p>
+                        <p className="md:text-lg text-sm text-white">See you guys in Newell's 2K23</p>
 
                     </div>
                 </div>
