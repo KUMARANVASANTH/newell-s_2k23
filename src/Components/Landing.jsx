@@ -16,7 +16,7 @@ function Landing(){
                         </div>
                         <p className="md:text-2xl text-xl font-bolder text-white-500 pb-5">November 1,2023</p>
                         <TypeAnimation className="md:text-5xl font-mono sm:text-4xl text-xl font-bold"
-                                sequence={['Online-Registration opens',2000,'Register soon to Confirm your slot']}
+                                sequence={['Online-Registration Closed',2000,'Shortlisted Students will receive message']}
                             wrapper="span"
                             cursor={true}
                             speed={5}
