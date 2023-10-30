@@ -24,7 +24,7 @@ function Landing(){
                         />
                         <div className="register_but object-contain">
                             <Link to="/events">
-                                <button className="bg-[#ff2a19] text-white text-lg w-[200px] rounded-md font-medium my-6 mx-auto py-3">Register soon</button>
+                                <button className="bg-[#ff2a19] text-white text-lg w-[200px] rounded-md font-medium my-6 mx-auto py-3" disabled>Register soon</button>
                             </Link>
                         </div>
                         <p className="md:text-lg text-sm text-white">See you guys in Newell's 2K23</p>
